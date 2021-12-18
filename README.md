@@ -1,4 +1,4 @@
-# SafeAve
+# SafeAve - Work In Progress
 ## Purpose
 Android application that provide directions and resources for the homeless population. 
 ## Tools
